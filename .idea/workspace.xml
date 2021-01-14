@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="332c0d3e-32f3-434f-b918-b9feda96c710" name="Default Changelist" comment="hello worl">
+      <change afterPath="$PROJECT_DIR$/.idea/chat application using firebase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/ChatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/DeleteConversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/ManageContactAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/ManageMessageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/UserInfoDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/chatScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/createProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/manage_contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/manage_messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeFiles/signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_chat_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_create_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_delete_conversation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_manage_contacts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_manage_messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_user_info_display.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/activity_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/chat_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/contacts_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/message_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.idea/modules/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/androidTest/java/com/example/chatapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/ChatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/DeleteConversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/ManageContactAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/ManageMessageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/UserInfoDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/chatScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/createProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/manage_contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/manage_messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/java/com/example/i170212_i170321/signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/bg_msg_from.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/cam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/chatlogo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/delete_layout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/ic_door_key.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/ic_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/input_circle_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/round_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/round_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/round_corners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/round_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable-v24/round_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/arrow_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/below_line.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/comma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/dash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/delete_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/ic_outline_camera_alt_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/phone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/r_light_green_white_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/round_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/round_white_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/drawable/user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_chat_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_create_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_delete_conversation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_manage_contacts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_manage_messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_user_info_display.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/activity_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/chat_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/contacts_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/layout/message_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/app/src/test/java/com/example/chatapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/hs_err_pid1972.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/replay_pid1972.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source Code/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n3C4wfl9m9EnwBhVFk2cdQid5Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="332c0d3e-32f3-434f-b918-b9feda96c710" name="Default Changelist" comment="" />
+      <created>1610609202754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610609202754</updated>
+    </task>
+    <servers />
+  </component>
+</project>
